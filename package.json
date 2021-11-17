@@ -1,0 +1,27 @@
+{
+  "name": "node.js-homework-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikOroferov/node.js-homework-1.git"
+  },
+  "keywords": [],
+  "author": "Nick Oroferov <nik.oroferov@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "^8.3.0",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/NikOroferov/node.js-homework-1/issues"
+  },
+  "homepage": "https://github.com/NikOroferov/node.js-homework-1#readme"
+}
